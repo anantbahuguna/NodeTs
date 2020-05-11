@@ -1,5 +1,5 @@
 # NodeTs
-Typescript setup with node
+Typescript setup with node and express
 
 ### NPM Scripts:
 
